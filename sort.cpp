@@ -33,7 +33,7 @@ int main(int argc, char *argv[])
 {
     if(argc<3)
     {
-        cout<<"insufficient arguments";
+        cout<<"insufficient arguments\n";
         return(1);
     }    
 
