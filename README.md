@@ -1,3 +1,3 @@
-# Comand_Line_Args
+# Command_Line_Args
 
-Few C programs which use comand line arguments
+Few C programs which use command line arguments
